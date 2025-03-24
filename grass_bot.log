@@ -1,0 +1,832 @@
+2025-03-21 12:48:47,796 - INFO - Grass Bot initialized
+2025-03-21 12:48:47,797 - INFO - Starting bot instance
+2025-03-21 12:48:47,809 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 12:48:48,444 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 12:48:48,515 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 12:53:30,751 - INFO - Grass Bot initialized
+2025-03-21 12:53:30,752 - INFO - Starting bot instance
+2025-03-21 12:53:30,776 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 12:53:31,433 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 12:53:41,449 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F07BBE0050>, 'Connection to 104.248.63.17 timed out. (connect timeout=10)')))
+2025-03-21 12:53:48,549 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 12:53:49,135 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 12:53:49,234 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 12:58:07,906 - INFO - Grass Bot initialized
+2025-03-21 12:58:07,907 - INFO - Starting bot instance
+2025-03-21 12:58:07,909 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 12:58:09,114 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 12:58:41,488 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 12:58:42,175 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 12:58:44,426 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))
+2025-03-21 12:58:49,255 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 12:58:49,881 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 12:58:49,985 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 12:59:09,116 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 12:59:10,270 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:00:10,272 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:00:11,458 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:01:11,495 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:01:12,689 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:02:12,691 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:02:13,915 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:03:13,919 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:03:15,150 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:03:44,463 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:03:45,044 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:03:45,505 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))
+2025-03-21 13:03:49,990 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:03:50,627 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:04:01,290 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:04:15,153 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:04:16,288 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:05:01,302 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:05:01,817 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:05:12,848 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:05:16,290 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:05:17,595 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:06:12,849 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:06:13,426 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:06:17,609 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:06:18,823 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:06:23,445 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015CE40DF1D0>, 'Connection to 167.71.5.83 timed out. (connect timeout=10)')))
+2025-03-21 13:07:18,835 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:07:19,972 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:08:19,988 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:08:21,151 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:08:45,521 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:08:46,099 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:08:56,139 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F07BBEABD0>, 'Connection to 192.241.138.210 timed out. (connect timeout=10)')))
+2025-03-21 13:09:21,153 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:09:22,402 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:10:22,420 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:10:23,575 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:11:23,477 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:11:23,576 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:11:24,110 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:11:24,209 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 13:11:24,669 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:12:24,673 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:12:25,893 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:13:25,896 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:13:27,271 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:13:56,146 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:13:56,827 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:14:07,102 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Read timed out. (read timeout=10)
+2025-03-21 13:14:27,273 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:14:28,453 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:15:28,457 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:15:29,717 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:16:24,272 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:16:24,845 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:16:24,937 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 13:16:29,721 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:16:30,866 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:17:30,869 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:17:32,111 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:18:32,113 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:18:33,548 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:19:07,118 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:19:07,762 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:19:17,789 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F07BBEF090>, 'Connection to 104.248.63.17 timed out. (connect timeout=10)')))
+2025-03-21 13:19:33,551 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:19:34,742 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:20:34,758 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:20:35,970 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:21:24,964 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:21:25,566 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:21:25,654 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 13:21:35,973 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:21:37,157 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:22:37,158 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:22:38,402 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:23:38,405 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:23:39,539 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:24:17,825 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:24:18,437 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:24:28,449 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F07BBE8BD0>, 'Connection to 192.241.138.210 timed out. (connect timeout=10)')))
+2025-03-21 13:24:39,541 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:24:40,642 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:25:40,646 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:25:41,811 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:26:25,683 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:26:26,350 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:26:36,361 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015CE40E77D0>, 'Connection to 167.71.5.83 timed out. (connect timeout=10)')))
+2025-03-21 13:26:41,823 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:26:43,013 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:27:43,018 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:27:44,259 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:28:44,271 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:28:45,541 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:29:28,454 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:29:29,206 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:29:39,217 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F07BBE8390>, 'Connection to 104.248.63.17 timed out. (connect timeout=10)')))
+2025-03-21 13:30:41,933 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:30:43,413 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:31:43,416 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:31:44,567 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:32:32,697 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:32:33,289 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:32:33,393 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 13:32:44,583 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:32:45,720 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:33:45,724 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:33:46,971 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:34:46,973 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:34:48,121 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:35:35,556 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:35:36,190 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:35:46,200 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F07BBE34D0>, 'Connection to 159.65.245.255 timed out. (connect timeout=10)')))
+2025-03-21 13:35:48,124 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:35:49,372 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:36:49,375 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:36:50,490 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:37:33,447 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:37:34,055 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:37:34,154 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 13:37:50,495 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:37:51,772 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:38:51,786 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:38:52,930 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:39:52,942 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:39:54,197 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:40:46,221 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:40:46,867 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:40:54,213 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:40:55,396 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:40:58,132 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Read timed out. (read timeout=10)
+2025-03-21 13:41:55,398 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:41:56,553 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:42:34,204 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:42:34,819 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:42:34,897 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 13:42:56,564 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:42:57,820 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:43:57,822 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:43:58,969 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:44:58,972 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:45:00,143 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:45:43,987 - WARNING - Telegram notifications disabled due to missing bot token or chat ID
+2025-03-21 13:45:43,999 - INFO - Grass Bot initialized
+2025-03-21 13:45:54,463 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:45:54,464 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:45:58,155 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:45:58,790 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:46:00,149 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:46:01,281 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:46:09,318 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:46:09,318 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:46:12,058 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Read timed out. (read timeout=10)
+2025-03-21 13:46:30,659 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:46:30,660 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:46:44,984 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 13:46:44,985 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:47:01,283 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:47:02,579 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:47:24,241 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:47:24,242 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:47:24,870 - ERROR - Bot crashed: RetryError[<Future at 0x28a9e73b5d0 state=finished raised GrassAPIError>]
+2025-03-21 13:47:34,923 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:47:37,753 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:47:37,851 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 13:48:02,584 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:48:03,798 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:48:34,207 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 13:48:34,209 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:49:03,799 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:49:04,991 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:49:09,701 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:49:09,701 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:49:29,406 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 13:49:29,406 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:49:59,292 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:49:59,292 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:50:04,993 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:50:06,192 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:50:18,119 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:50:18,119 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:50:18,513 - ERROR - Bot crashed: RetryError[<Future at 0x28a9e70b1d0 state=finished raised GrassAPIError>]
+2025-03-21 13:51:06,195 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:51:07,365 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:51:12,092 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:51:12,689 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:51:22,721 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F07BBC4A50>, 'Connection to 104.248.63.17 timed out. (connect timeout=10)')))
+2025-03-21 13:51:28,154 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 13:51:28,154 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:52:00,631 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:52:00,632 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:52:07,367 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:52:08,590 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:52:18,390 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:52:18,390 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:52:32,917 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 13:52:32,918 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:52:37,877 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:52:38,564 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:52:38,647 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 13:53:03,124 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 13:53:03,124 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:53:08,594 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:53:09,685 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:53:15,811 - ERROR - Bot crashed: RetryError[<Future at 0x28a9e7317d0 state=finished raised GrassAPIError>]
+2025-03-21 13:54:09,689 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:54:10,994 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:54:27,202 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:54:27,203 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:54:39,369 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 13:54:39,369 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:55:04,580 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:55:04,580 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:55:10,996 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:55:12,149 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:55:24,291 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:55:24,292 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:55:44,075 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:55:44,075 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:55:44,415 - ERROR - Bot crashed: RetryError[<Future at 0x28a9e746750 state=finished raised GrassAPIError>]
+2025-03-21 13:56:12,163 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:56:13,473 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:56:22,769 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:56:23,321 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 13:56:33,333 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F07BBE06D0>, 'Connection to 104.248.63.17 timed out. (connect timeout=10)')))
+2025-03-21 13:56:55,846 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:56:55,848 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:57:11,640 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:57:11,641 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:57:13,486 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:57:14,624 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:57:26,674 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:57:26,675 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:57:38,695 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:57:39,416 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 13:57:39,501 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 400 Bad Request')))
+2025-03-21 13:57:40,930 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 13:57:40,931 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:58:10,318 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:58:10,318 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:58:10,694 - ERROR - Bot crashed: RetryError[<Future at 0x28a9e70b610 state=finished raised GrassAPIError>]
+2025-03-21 13:58:14,632 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:58:15,793 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:59:15,796 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:59:16,904 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 13:59:22,092 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:59:22,092 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:59:37,885 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:59:37,886 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 13:59:53,609 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 13:59:53,609 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:00:09,521 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 14:00:09,521 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:00:16,907 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:00:18,132 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 14:00:34,490 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 14:00:34,490 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:00:34,826 - ERROR - Bot crashed: RetryError[<Future at 0x28a9e736590 state=finished raised GrassAPIError>]
+2025-03-21 14:01:18,134 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:01:19,256 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 14:01:33,363 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:01:33,927 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 14:01:43,956 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F07BBEC950>, 'Connection to 192.241.138.210 timed out. (connect timeout=10)')))
+2025-03-21 14:01:45,350 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 14:01:45,350 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:02:07,385 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 14:02:07,386 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:02:19,259 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:02:20,425 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 14:02:35,203 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 14:02:35,203 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:02:39,658 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:02:40,254 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+2025-03-21 14:02:50,277 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000015CE40DEF50>, 'Connection to 167.71.5.83 timed out. (connect timeout=10)')))
+2025-03-21 14:02:53,257 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 14:02:53,258 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:03:14,804 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 14:03:14,805 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:03:20,427 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:03:21,627 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 14:03:24,809 - ERROR - Bot crashed: RetryError[<Future at 0x28a9f2d8d50 state=finished raised ProxyError>]
+2025-03-21 14:04:21,629 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:04:22,779 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 14:04:35,327 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 14:04:35,328 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:04:54,080 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 14:04:54,080 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:05:22,781 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:05:23,928 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 14:05:26,039 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 14:05:26,040 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:05:41,907 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 14:05:41,908 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:06:00,922 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 14:06:00,923 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:06:12,191 - ERROR - Bot crashed: RetryError[<Future at 0x28a9f2d0a90 state=finished raised ReadTimeout>]
+2025-03-21 14:06:23,938 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:06:25,192 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 14:06:43,986 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 14:06:44,614 - ERROR - Telegram send failed: 400 Client Error: Bad Request for url: https://api.telegram.org/bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage
+2025-03-21 14:06:57,896 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Read timed out. (read timeout=10)
+2025-03-21 19:52:57,995 - INFO - Grass Bot initialized
+2025-03-21 19:52:57,999 - INFO - Starting bot instance
+2025-03-21 19:52:58,002 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:52:58,658 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:52:59,035 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:53:59,037 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:53:59,679 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:54:00,035 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:54:41,873 - ERROR - GRASS_AUTH_TOKEN is required. Set it in environment variables.
+2025-03-21 19:54:58,539 - INFO - Grass Bot initialized
+2025-03-21 19:54:58,539 - INFO - Starting bot instance
+2025-03-21 19:54:58,539 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:54:59,314 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:54:59,654 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:55:00,038 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:55:00,628 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:55:01,010 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:55:59,840 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:56:00,561 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:56:00,964 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:56:01,152 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:56:01,825 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:56:02,204 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:57:00,967 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:57:01,632 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:57:02,186 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:57:02,206 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:57:02,865 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:57:03,197 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:58:02,189 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:58:02,799 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:58:03,192 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:58:03,200 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:58:03,757 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:58:04,140 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:59:03,194 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:59:03,934 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:59:04,142 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:59:04,294 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:59:04,664 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 19:59:05,016 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 19:59:09,295 - INFO - Grass Bot initialized
+2025-03-21 19:59:09,295 - INFO - Starting bot instance
+2025-03-21 19:59:09,298 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 19:59:10,435 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:00:04,295 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:00:04,935 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:00:05,020 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:00:05,315 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:00:05,561 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:00:05,930 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:00:10,438 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:00:12,097 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:01:05,329 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:01:05,946 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:01:06,009 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:01:06,426 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:01:06,586 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:01:06,989 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:01:12,101 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:01:13,225 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:02:06,428 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:02:06,990 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:02:07,112 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:02:07,468 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:02:07,606 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:02:07,958 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:02:13,228 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:02:14,379 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:03:07,470 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:03:07,961 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:03:08,040 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:03:08,376 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:03:08,521 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:03:08,873 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:03:14,381 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:03:15,927 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:04:08,381 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:04:08,874 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:04:08,968 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:04:09,294 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:04:09,427 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:04:09,769 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:04:15,930 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:04:17,047 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:05:09,296 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:05:09,769 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:05:09,960 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:05:10,327 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:05:10,360 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:05:10,693 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:05:17,050 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:05:18,179 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:06:10,330 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:06:10,696 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:06:10,982 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:06:11,527 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:06:11,979 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:06:18,181 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:06:19,290 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:07:11,529 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:07:11,980 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:07:12,101 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:07:12,457 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:07:12,501 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:07:12,855 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:07:19,294 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:07:20,397 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:08:12,459 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:08:12,857 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:08:13,090 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:08:13,394 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:08:13,466 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:08:13,775 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:08:20,399 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:08:21,554 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:09:13,467 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:09:13,777 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:09:14,130 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:09:14,357 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:09:14,496 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:09:14,701 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:09:21,566 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:09:22,697 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:10:14,498 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:10:14,702 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:10:15,097 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:10:15,262 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:10:15,436 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:10:15,582 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:10:22,698 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:10:24,097 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:11:15,437 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:11:15,585 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:11:16,025 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:11:16,138 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:11:16,385 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:11:16,539 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:11:24,101 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:11:25,215 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:12:16,387 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:12:16,540 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:12:17,028 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:12:17,125 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:12:17,354 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:12:17,436 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:12:25,217 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:12:26,299 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:13:17,368 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:13:17,440 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:13:18,016 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:13:18,039 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:13:18,348 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:13:18,353 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:13:26,302 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:13:27,709 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:14:18,350 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:14:18,356 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:14:18,925 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:14:18,952 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:14:19,258 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:14:19,297 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:14:27,711 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:14:28,842 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:15:19,261 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:15:19,301 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:15:19,918 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:15:19,937 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:15:20,241 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:15:20,275 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:15:28,844 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:15:29,947 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:16:20,242 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:16:20,277 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:16:20,952 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:16:20,956 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:16:21,284 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:16:21,295 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:16:29,949 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:16:31,183 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:17:21,286 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:17:21,297 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:17:21,855 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:17:21,883 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:17:22,228 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:17:31,184 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:17:32,679 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:18:22,231 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:18:22,233 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:18:22,819 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:18:22,854 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:18:23,305 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:18:23,418 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:18:32,681 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:18:33,925 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:19:23,308 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:19:23,420 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:19:23,865 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:19:23,982 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:19:24,222 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:19:24,304 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:19:33,926 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:19:35,055 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:20:24,225 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:20:24,305 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:20:24,899 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:20:24,931 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:20:25,434 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:20:25,434 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:20:35,056 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:20:36,156 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:21:25,435 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:21:25,435 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:21:26,364 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:21:26,736 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:21:26,745 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:21:36,158 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:21:37,361 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:22:26,738 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:22:26,747 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:22:27,354 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:22:27,426 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:22:27,717 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:22:27,762 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:22:37,362 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:22:38,522 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:23:27,721 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:23:27,772 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:23:28,287 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:23:28,297 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:23:28,653 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:23:28,666 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:23:38,528 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:23:39,618 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:24:28,668 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:24:28,668 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:24:29,304 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:24:29,314 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:24:29,702 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:24:29,703 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:24:39,622 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:24:40,716 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:25:29,704 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:25:29,704 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:25:30,365 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:25:30,707 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:25:30,744 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:25:40,719 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:25:41,838 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:26:30,708 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:26:30,746 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:26:31,583 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:26:31,975 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:26:31,979 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:26:41,841 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:26:43,076 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:57:14,996 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:57:15,620 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:57:15,627 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:57:15,971 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:57:15,973 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:57:26,054 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:57:27,290 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:58:15,974 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:58:15,972 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:58:16,577 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:58:16,577 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 20:58:16,921 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:58:16,921 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 20:58:27,292 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 20:58:28,478 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 22:56:58,255 - ERROR - GRASS_AUTH_TOKEN is required. Set it in environment variables.
+2025-03-21 22:57:06,048 - INFO - Grass Bot initialized
+2025-03-21 22:57:06,048 - INFO - Starting bot instance
+2025-03-21 22:57:06,048 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:57:07,081 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 22:57:07,614 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 22:57:37,169 - INFO - Grass Bot initialized
+2025-03-21 22:57:53,017 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 22:57:53,017 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:58:07,617 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:58:08,824 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 22:58:08,824 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:58:17,643 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /botYOUR_BOT_TOKEN/sendMessage (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D15C8E30D0>, 'Connection to api.telegram.org timed out. (connect timeout=5)')) - Response: No response
+2025-03-21 22:58:18,857 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D9C5618CD0>, 'Connection to api.telegram.org timed out. (connect timeout=5)'))
+2025-03-21 22:58:28,714 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Max retries exceeded with url: /traffic/farm (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001D15C8C81D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2025-03-21 22:58:32,757 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 22:58:32,757 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:58:32,761 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C5618F90>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 22:58:36,818 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 22:58:36,818 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:58:36,821 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C5613C50>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 22:58:44,865 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 22:58:44,865 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:58:44,869 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C561B750>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 22:58:44,877 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c5619550 state=finished raised ConnectionError>]
+2025-03-21 22:59:44,892 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 22:59:44,893 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:59:44,905 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C5605F90>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 22:59:48,942 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 22:59:48,943 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:59:48,946 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C560F7D0>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 22:59:52,972 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 22:59:52,972 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:59:52,972 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C560E0D0>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 22:59:57,031 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 22:59:57,032 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 22:59:57,036 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C5607610>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 23:00:05,051 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:00:05,051 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:00:05,061 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C560C5D0>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 23:00:05,066 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c561ab90 state=finished raised ConnectionError>]
+2025-03-21 23:01:05,109 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:01:05,110 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:01:05,115 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C5611D50>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 23:01:09,158 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:01:09,159 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:01:09,163 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C560FCD0>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 23:01:13,225 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:01:13,226 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:01:13,230 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C5625BD0>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 23:01:17,270 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:01:17,270 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:01:17,274 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C5610B50>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 23:01:25,334 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:01:25,335 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:01:25,345 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D9C560EC10>: Failed to resolve 'api.telegram.org' ([Errno 11001] getaddrinfo failed)"))
+2025-03-21 23:01:25,350 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c5612410 state=finished raised ConnectionError>]
+2025-03-21 23:02:42,591 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:02:42,592 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:03:08,645 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:03:08,647 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:03:25,449 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:03:25,450 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:03:28,716 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:03:29,736 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:03:30,411 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:03:42,596 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:03:42,596 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:03:54,042 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5)
+2025-03-21 23:04:12,983 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:04:12,984 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:04:21,356 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c560f450 state=finished raised GrassAPIError>]
+2025-03-21 23:04:30,413 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:04:35,175 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:04:35,997 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:04:52,588 - ERROR - GRASS_AUTH_TOKEN is required. Set it in environment variables.
+2025-03-21 23:05:02,192 - INFO - Grass Bot initialized
+2025-03-21 23:05:02,193 - INFO - Starting bot instance
+2025-03-21 23:05:02,195 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:05:05,175 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:05:36,002 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:05:40,979 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:05:40,982 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:05:49,261 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5) - Response: No response
+2025-03-21 23:05:49,268 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5)
+2025-03-21 23:06:05,177 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:06:15,192 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D0491E3290>, 'Connection to api.telegram.org timed out. (connect timeout=5)')) - Response: No response
+2025-03-21 23:06:38,406 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Read timed out. (read timeout=10)
+2025-03-21 23:06:39,881 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Read timed out. (read timeout=10)
+2025-03-21 23:07:03,287 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:07:03,288 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:07:40,493 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:07:40,494 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:07:48,822 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5)
+2025-03-21 23:08:13,341 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:08:13,342 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:08:40,677 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:08:40,677 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:08:48,665 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5)
+2025-03-21 23:08:59,841 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c5644dd0 state=finished raised ReadTimeout>]
+2025-03-21 23:10:10,131 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:10:10,131 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:10:40,599 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:10:40,599 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:11:01,807 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:11:01,808 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:11:26,443 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:11:26,444 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:11:38,407 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:11:39,894 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:11:40,378 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:11:40,648 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:11:41,162 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:11:48,154 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:11:48,154 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:11:49,813 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c5646250 state=finished raised GrassAPIError>]
+2025-03-21 23:12:40,392 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:12:41,164 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:12:41,822 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:12:42,158 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:12:42,378 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:13:03,653 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:13:03,653 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:13:21,348 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:13:21,349 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:13:37,808 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:13:37,810 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:13:42,160 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:13:42,380 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:13:43,266 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:13:43,747 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:13:44,034 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:13:54,595 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:13:54,600 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:14:15,381 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:14:15,382 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:14:17,109 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c513a550 state=finished raised GrassAPIError>]
+2025-03-21 23:14:43,755 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:14:44,036 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:14:44,753 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:14:45,295 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:14:45,570 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:15:27,337 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:15:27,337 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:15:45,225 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:15:45,225 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:15:45,296 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:15:45,578 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:15:50,546 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:15:55,312 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:15:57,718 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:16:13,807 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:16:13,807 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:16:31,863 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 23:16:31,863 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:23:13,130 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:23:14,444 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:23:14,992 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:23:15,535 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:23:17,253 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:23:18,198 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 23:23:18,198 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:23:41,501 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c5653a90 state=finished raised ReadTimeout>]
+2025-03-21 23:24:15,002 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:24:16,358 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:24:17,255 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:24:20,294 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:24:23,079 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:24:51,732 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:24:51,744 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:25:20,295 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:25:23,087 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:25:31,546 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:25:37,747 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:25:37,747 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:25:45,283 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:25:51,848 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:26:17,970 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:26:17,970 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:26:25,844 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5)
+2025-03-21 23:26:45,287 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:26:46,989 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 23:26:46,990 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:26:47,326 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:26:48,768 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:26:51,849 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:26:56,281 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:27:21,500 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:27:21,501 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:27:27,180 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c5639f10 state=finished raised GrassAPIError>]
+2025-03-21 23:27:48,774 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:27:53,645 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:27:56,282 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:28:07,651 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:28:08,104 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Read timed out. (read timeout=10)
+2025-03-21 23:28:43,263 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:28:43,265 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:29:07,652 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:29:16,660 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:29:16,661 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:29:16,727 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5) - Response: No response
+2025-03-21 23:29:26,806 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5)
+2025-03-21 23:29:31,147 - ERROR - Farming failed: HTTPSConnectionPool(host='api.getgrass.io', port=443): Read timed out. (read timeout=10)
+2025-03-21 23:29:56,687 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:29:56,687 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:30:35,311 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:30:35,311 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:31:12,644 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:31:12,644 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:31:23,941 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c565bb50 state=finished raised GrassAPIError>]
+2025-03-21 23:32:34,438 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:32:34,452 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:32:38,331 - ERROR - Telegram send failed: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7890445792:AAGJ_C9qta6oHrCrSxnezyxBSdkh4uDX1vE/sendMessage (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001D9C5627D50>: Failed to establish a new connection: [WinError 10053] An established connection was aborted by the software in your host machine'))
+2025-03-21 23:32:54,600 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:32:54,600 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:33:08,236 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:33:08,895 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:33:09,262 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:33:13,173 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 23:33:13,173 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:33:38,668 - WARNING - No working proxies found, proceeding without proxy
+2025-03-21 23:33:38,668 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:33:59,874 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 23:33:59,876 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:34:09,265 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:34:09,816 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:34:10,151 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:34:10,966 - ERROR - Bot crashed: RetryError[<Future at 0x1d9c563b690 state=finished raised ReadTimeout>]
+2025-03-21 23:34:31,152 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:34:32,247 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:35:10,154 - INFO - Starting farming: source=test_source, volume=100, duration=60s
+2025-03-21 23:35:10,751 - ERROR - Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage - Response: No response
+2025-03-21 23:35:11,084 - ERROR - Bot crashed: Grass API Error 404: Unexpected error
+2025-03-21 23:35:19,391 - INFO - Using proxy: http://47.251.43.115:33333
+2025-03-21 23:35:19,392 - INFO - Starting farming: source=test_source, volume=100, duration=60s
